@@ -3,7 +3,7 @@
 #include <string>
 #include <iomanip>
 
-using namespace std;
+using namespace std;  
 
 class Stock {
 public:
